@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuzDolabiV3.props" />
+</Project>
